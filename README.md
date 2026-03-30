@@ -36,7 +36,3 @@ A automação realiza a busca pelo produto **"iPhone 16 Pro Max"**, coleta os pr
    - Melhor opção de compra  
 
 9. Envia um e-mail automaticamente com o resultado da comparação  
-
----
-
-## 📧 Exemplo de Saída (E-mail)
